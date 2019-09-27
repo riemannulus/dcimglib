@@ -1,6 +1,6 @@
-#DCimglib
+# DCimglib
 
-##usage
+## usage
 ```python
 import dcimglib
 
